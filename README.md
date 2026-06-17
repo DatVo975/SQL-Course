@@ -26,3 +26,41 @@ Tối ưu hoá cơ sở dữ liệu(SQL):
 >⚡ Đánh chỉ mục (Indexing) hợp lý: Tăng tốc độ các câu truy vấn bằng cách thiết lập chỉ mục có chiến lược (tạo mục lục cho các cột quan trọng).
 >
 >🗄️ Sử dụng Phân vùng (Partitioning) cho các bảng lớn: Cải thiện hiệu suất xử lý trên các tập dữ liệu quá lớn (chia bảng lớn thành các phần nhỏ hơn để dễ quản lý).
+
+Mẫu viết README Analysis:
+
+# Intermediate SQL - Sales Analysis
+
+## Overview
+{insert overview here}
+
+## Business Questions
+{insert business questions here}
+
+## Analysis Approach
+
+### 1. {insert analysis approach here}
+- {insert analysis approach here}
+
+🖥️ Query: [1_query_.sql](sql_1.sql)
+
+**📈 Visualization:**
+
+![image_name](image_name.png)
+
+📊 **Key Findings:**
+- {insert key findings here}
+
+💡 **Business Insights**
+- {insert business insights here}
+
+{Repeat for each analysis approach}
+
+## Strategic Recommendations
+
+1. {insert strategic recommendations here}
+
+## Technical Details
+- **Database:** PostgreSQL
+- **Analysis Tools:** PostgreSQL
+- **Visualization:** ChatGPT
