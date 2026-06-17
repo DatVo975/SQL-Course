@@ -1,5 +1,6 @@
 # SQL-Course
 Tối ưu hoá cơ sở dữ liệu(SQL):
+
 🔰 Người mới bắt đầu (Tối ưu hóa cơ bản)
 🚫 Tránh dùng SELECT *: Chỉ truy xuất (lấy ra) những cột thực sự cần thiết.
 
